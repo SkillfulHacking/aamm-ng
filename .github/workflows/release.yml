@@ -3,6 +3,8 @@ name: AREDN Release
 on:
   workflow_dispatch:
   push:
+    branches:
+      - feat/remove-tls
     tags:
       - "v*.*.*"
 
