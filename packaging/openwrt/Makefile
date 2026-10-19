@@ -5,7 +5,7 @@ PKG_VERSION:=0.1.2
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/k2exe/aamm-ng.git
+PKG_SOURCE_URL:=https://github.com/SkillfulHacking/aamm-ng.git
 PKG_SOURCE_VERSION:=87278a1a99fa079318ffc42a4ce6d6f03bffd458
 PKG_MIRROR_HASH:=skip
 
